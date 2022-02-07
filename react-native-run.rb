@@ -1,8 +1,8 @@
 class ReactNativeRun < Formula
   desc ""
   homepage ""
-  url "https://github.com/Orion10110/react-native-run/archive/refs/tags/v0.1.1.tar.gz"
-  sha256 "e20e0f2352a7634f36edb267a58a709a1d5a30a755c69047d31bbe1e0dc21523"
+  url "https://github.com/Orion10110/react-native-run/archive/refs/tags/v0.1.2.tar.gz"
+  sha256 "03af4348c23efe060e1d8bb5efaa520803b1a0d961cfceec6f89228d47014c7a"
   license ""
 
   def install
