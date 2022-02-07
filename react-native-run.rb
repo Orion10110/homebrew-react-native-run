@@ -6,7 +6,6 @@ class ReactNativeRun < Formula
   license "MIT"
 
   def install
-    bin.install "rn_consts"
     bin.install "rn"
   end
 end
